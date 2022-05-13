@@ -1,7 +1,7 @@
 # Weather App
 Weather app with React, OpenWeatherMap API and Axios.  
 
-Live preview: coming soon
+Live preview: https://ioanat94.github.io/weather-app/
 
 How to run the project:  
 
